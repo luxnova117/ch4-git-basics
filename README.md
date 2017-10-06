@@ -5,3 +5,5 @@ Banana
 food
 tea
 coffee
+pancake
+juice
